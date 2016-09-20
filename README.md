@@ -1,6 +1,6 @@
 # Computer Systems Organization : Recitation 03
 
-- [Prime Numbers](#prime_numbers)
+- [Prime Numbers](#prime)
 - [Linked List](#linked-list)
 
 ## Prime Numbers
