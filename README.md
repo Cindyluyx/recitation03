@@ -1,8 +1,5 @@
 # Computer Systems Organization : Recitation 03
 
-- [Prime Numbers](#prime)
-- [Linked List](#linked-list)
-
 ## Prime Numbers
 
 A prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself (Wikipedia). You have also been asked to implement an efficient algorithm in the lab that yields the prime numbers smaller than some given n.
